@@ -1,4 +1,4 @@
-package algorithm.others.bilibili.basic;
+package algorithm.others.lesson01;
 
 import com.sun.scenario.effect.Brightpass;
 
